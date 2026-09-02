@@ -19,6 +19,7 @@
 | [0054-spiral-matrix](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0506-relative-ranks](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
