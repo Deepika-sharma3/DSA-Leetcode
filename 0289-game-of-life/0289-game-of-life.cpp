@@ -1,8 +1,12 @@
 class Solution {
 public:
     void gameOfLife(vector<vector<int>>& board) {
+
         int m = board.size();
         int n = board[0].size();
+
+       
+        vector<vector<int>> original = board;
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
@@ -15,26 +19,29 @@ public:
                         if (x == i && y == j)
                             continue;
 
+                       
                         if (x >= 0 && x < m &&
-                            y >= 0 && y < n &&
-                            (board[x][y] == 1 || board[x][y] == 2)) {
-                            live++;
+                            y >= 0 && y < n) {
+
+                           
+                            if (original[x][y] == 1)
+                                live++;
                         }
                     }
                 }
 
-                if (board[i][j] == 1 && (live < 2 || live > 3))
-                    board[i][j] = 2;
+              
+                if (original[i][j] == 1) {
 
-                if (board[i][j] == 0 && live == 3)
-                    board[i][j] = 3;
-            }
-        }
+                    if (live < 2 || live > 3)
+                        board[i][j] = 0;
+                }
 
-        for (auto& row : board) {
-            for (int& cell : row) {
-                if (cell == 2) cell = 0;
-                else if (cell == 3) cell = 1;
+                else {
+
+                    if (live == 3)
+                        board[i][j] = 1;
+                }
             }
         }
     }
