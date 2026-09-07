@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
 | ------- |
