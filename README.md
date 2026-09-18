@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
