@@ -24,6 +24,7 @@
 | [0289-game-of-life](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0506-relative-ranks) |
+| [0643-maximum-average-subarray-i](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Deepika-sharma3/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
